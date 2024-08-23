@@ -1,0 +1,45 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{\chapternumberline {1}Apresentação}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Licenciamento}{4}{section.1.1}%
+\contentsline {chapter}{\chapternumberline {2}RPG de Mesa}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}O que é preciso para jogar RPG}{7}{section.2.1}%
+\contentsline {chapter}{\chapternumberline {3}Personagem do Jogador}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Um Personagem no +2d6@IM}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Pontos de personagem}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Ficha de personagem}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Inteligências}{12}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Pontos de Energia (PE))}{17}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Redução de Dano (RD))}{18}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Perícias}{19}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Vantagens e Desvantagens}{20}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Criando um PdJ}{25}{section.3.6}%
+\contentsline {chapter}{\chapternumberline {4}Classes de Personagem}{26}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Classes para aventuras fantásticas}{26}{section.4.1}%
+\contentsline {chapter}{\chapternumberline {5}Jogando com +2d6@IM}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Jogadas de teste}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Combates}{33}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Descanso}{33}{section.5.3}%
+\contentsline {chapter}{\chapternumberline {6}Magia Antiga}{34}{chapter.6}%
+\contentsline {chapter}{\chapternumberline {7}Equipamentos do Aventureiro}{35}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Armas}{35}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Armas corpo-a-corpo}{35}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Armas a distância}{35}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Armas naturais/druídicas}{35}{subsection.7.1.3}%
+\contentsline {section}{\numberline {7.2}Escudos e Armaduras}{35}{section.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.0.1}Armaduras Leves}{35}{subsubsection.7.2.0.1}%
+\contentsline {subsubsection}{\numberline {7.2.0.2}Armaduras Pesada}{36}{subsubsection.7.2.0.2}%
+\contentsline {subsubsection}{\numberline {7.2.0.3}Escudos}{36}{subsubsection.7.2.0.3}%
+\contentsline {subsubsection}{\numberline {7.2.0.4}Ferramentas}{36}{subsubsection.7.2.0.4}%
+\contentsline {chapter}{\chapternumberline {8}Área do Mestre}{37}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Modificadores de ocasião}{37}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Escolhendo perícias para sua aventura}{37}{section.8.2}%
+\contentsline {appendix}{\chapternumberline {A}Apêndice I - Exemplos de Ficha de Personagem}{38}{appendix.A}%
+\vspace {\cftbeforepartskip }
+\vspace {\cftbeforepartskip }
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {appendix}{\chapternumberline {B}Lista de Perícias}{39}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Perícias com armas}{39}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Perícias baseadas de atributos físicos}{39}{section.B.2}%
+\contentsline {section}{\numberline {B.3}Perícias de atributos mentais}{40}{section.B.3}%
+\contentsline {appendix}{\chapternumberline {C}Lista Vantagens e Desvantagens}{44}{appendix.C}%
